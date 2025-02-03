@@ -28,6 +28,6 @@
 ## Инструменты:
 `Python`
 `Matplotlib`
-'Seaborn'
-'Numpy'
-'Scipy'
+`Seaborn`
+`Numpy`
+`Scipy`
